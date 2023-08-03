@@ -1,0 +1,62 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+li {
+    list-style: none;
+    border-bottom: 2px solid lightcoral;
+    border-top: 2px solid lightcoral;
+    border-left: 2px solid lightcoral ;
+}   
+
+.this {
+    color: orange;
+}
+
+.this:hover {
+    background-color: darkgoldenrod;
+}
+
+.is {
+    color: blue;
+}
+
+.is:hover {
+    background-color: darkgoldenrod;
+}
+
+.div {
+    color: green;
+}
+
+.div:hover {
+    background-color: darkgoldenrod;
+}
+
+.tag {
+    color: blueviolet;
+}
+
+.tag:hover {
+    background-color: darkgoldenrod;
+}
+
+.task {
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+}
+
+.button {
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+    letter-spacing: 2px;
+}
+
+.button:hover {
+    background-color: coral;
+    cursor: pointer;
+}
+
+
